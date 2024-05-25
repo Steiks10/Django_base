@@ -1,0 +1,6 @@
+db.sqlite3
+projects/__pycache__/
+drfsimplecrud/__pycache__/
+projects/migrations/
+venvdjango/
+
